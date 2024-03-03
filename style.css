@@ -1,0 +1,53 @@
+body {
+    margin: o;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: brown;
+    background-color: gray;
+}
+header{
+    padding: 1%;
+}
+header img {
+    width: 50%;
+
+}
+header h1{
+    text-align: center;
+}
+nav a,footer a {
+    text-decoration: none;
+    color: red;
+    width: 20%;
+    margin-left: 14%;
+    background-color:lightseagreen ;
+    padding: 3%;
+    border-radius: 20px;
+    border:5px red solid;
+    margin-right:13%;
+} 
+
+nav {
+
+
+        margin-top: 10%;
+        border: rosybrown;
+        border-radius: 5px;
+        padding: 5%;
+}
+.history{
+    background-color: wheat;
+    border:5px lightseagreen solid;
+    color: lightseagreen;
+}
+footer{
+    margin-top: 5%;
+    background-color:lightseagreen;
+    padding: 3%;
+    text-align: center;
+}
+main img{
+    width: 50%;
+    margin-left: 25%;
+    border: 5px red double;
+}
