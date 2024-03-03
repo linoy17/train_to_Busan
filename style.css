@@ -24,7 +24,6 @@ nav a,footer a {
     padding: 3%;
     border-radius: 20px;
     border:5px red solid;
-    margin-right:13%;
 } 
 
 nav {
@@ -50,4 +49,7 @@ main img{
     width: 50%;
     margin-left: 25%;
     border: 5px red double;
+}
+footer a{
+    width:10%;
 }
